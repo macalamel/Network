@@ -1,13 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 13 15:45:53 2024
-
-@author: m.calamel
-"""
-
-#10.12.217.148
-
 import socket,os,sys,time,random,csv
 import threading
 

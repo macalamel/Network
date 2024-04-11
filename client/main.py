@@ -1,13 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 23 15:31:52 2024
-
-@author: m.calamel
-"""
-
-
-
 """
 ===================== Projet informatique 2024 ================================
 
@@ -41,7 +31,7 @@ objectifs:
     - [OK] gestion d'authentification
 
 objectifs bonus:
-    - implementation d'un système de chiffrement bout en bout
+    - [OK] implementation d'un système de chiffrement bout en bout
     - implementation d'un historique chiffré
     - possibilité d'envoyer des messages a un client non connecté
     
