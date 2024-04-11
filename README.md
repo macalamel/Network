@@ -1,6 +1,6 @@
-# SecureMessenger
+# Network
 
-SecureMessenger est une application de messagerie sécurisée qui garantit la confidentialité et l'intégrité des communications en utilisant des techniques de cryptographie modernes.
+Network est une application de messagerie sécurisée
 
 ## Fonctionnalités
 - **Gestion des clés :** Le système gère automatiquement la génération, la distribution des clés de chiffrement pour assurer la sécurité des communications.
