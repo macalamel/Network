@@ -7,8 +7,8 @@ Network est une application de messagerie sécurisée
 - **Gestion de plusieurs clients :** Utilisation du multithreading pour connecter plusieurs clients
 - **Autentification securisée :** Utilisation du RSA et du Vigenère pour securiser l'envoie du mot de passe
 - **Discussion en clair :** Par default la discussion est en claire avec tous les utlisateurs
-- **Listage des utilisateur :** La commande *! list user* permet d'afficher la liste des utilisateurs connecté
-- **Tunnel chiffré :** Possibilité de connecter plusieurs utilisateurs via un tunnel chiffré avec la commande *!make tunnel,[user1],[user2]*
+- **Listage des utilisateur :** La commande `! list user` permet d'afficher la liste des utilisateurs connecté
+- **Tunnel chiffré :** Possibilité de connecter plusieurs utilisateurs via un tunnel chiffré avec la commande `!make tunnel,[user1],[user2]`
 ## Installation
 
 1. Clonez ce dépôt sur votre machine locale.
@@ -34,3 +34,7 @@ Network est une application de messagerie sécurisée
 
 ## Auteurs
 ([@Wallaby](https://github.com/macalamel))
+
+## Licence
+
+Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
