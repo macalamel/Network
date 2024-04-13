@@ -4,6 +4,7 @@ import threading
 from hashlib import sha256
 import random
 
+#debut des class
 class Serveur:
     
     def __init__(self,ip_adresse:str="localhost",port:int=55028) -> None:
