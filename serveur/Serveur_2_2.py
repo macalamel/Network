@@ -4,6 +4,8 @@ import socket,sys,csv,os,time
 import threading
 from hashlib import sha256
 import random
+
+#class
 class Serveur:
     
     def __init__(self,ip_adresse:str="localhost",port:int=55028) -> None:
