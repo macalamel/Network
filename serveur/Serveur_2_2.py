@@ -5,7 +5,6 @@ import threading
 from hashlib import sha256
 import random
 
-#test
 #class
 class Serveur:
     
