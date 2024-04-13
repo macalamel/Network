@@ -1,4 +1,5 @@
-#import libs
+# import libs
+
 import socket,sys,csv,os,time
 import threading
 from hashlib import sha256
